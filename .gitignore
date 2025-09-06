@@ -1,0 +1,53 @@
+# Maven target directory
+/target/
+
+# Maven wrapper files (optional)
+!.mvn/wrapper/maven-wrapper.jar
+.mvn/
+mvnw
+mvnw.cmd
+
+# IntelliJ IDEA
+.idea/
+*.iml
+*.iws
+*.ipr
+
+# Eclipse
+.project
+.classpath
+.settings/
+
+# VS Code
+.vscode/
+
+# Logs
+*.log
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.swp
+
+# Java compiled class files
+*.class
+
+# Package archives
+*.jar
+*.war
+*.ear
+
+# Secrets (application configs)
+application.properties
+application.yml
+*.env
+
+# Test reports
+surefire-reports/
+test-output/
+
+# Backup files
+*~
